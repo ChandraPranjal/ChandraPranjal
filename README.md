@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChandraPranjal
+- 👋 Hi, I’m Pranjal Chandra
 - 👀 I’m interested in Problem Solving and Web Devlopement
 - 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 Reach Me :- pranjal.chandra@iiitg.ac.in
